@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋! My name is Dnyaneshwar and I'm a Automation Test Engineer!</h2>
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611qx3ncl0badlbq0tt3wvvneaypst974uwf6ad3mzm&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
@@ -9,7 +7,7 @@
 
 ###
 
-<p align="left">With over 2 years of experience in automation testing, I’m passionate about creating reliable and efficient software solutions. My toolbox includes Java ☕, JavaScript 🌐, Selenium 🤖, Playwright 🎭, TestNG 🧪, and Cucumber.</p>
+<p align="left">With over 2+ years of experience in automation testing, I’m passionate about creating reliable and efficient software solutions. My toolbox includes Java ☕, JavaScript 🌐, Selenium 🤖, Playwright 🎭, TestNG 🧪, and Cucumber.</p>
 
 ###
 
