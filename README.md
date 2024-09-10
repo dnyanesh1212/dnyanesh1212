@@ -45,10 +45,10 @@
 
 <h3 align="left">Connect with me : 👨🏽‍💻😎</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/dnyanesh12" target="_blank">
+  <a href="https://www.linkedin.com/in/dnyanesh12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/dnyana_1212" target="_blank">
+  <a href="https://www.x.com/dnyana_1212" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
