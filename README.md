@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">With over 3.6+ years of experience in automation testing using Selenium Java, I’m passionate about creating reliable and efficient software solutions. My toolbox includes Java ☕, JavaScript/TypeScript 🌐, Selenium 🤖, Playwright 🎭, TestNG 🧪, and Cucumber.</p>
+<p align="left">With over 3.9+ years of experience in automation testing using Selenium Java, I’m passionate about creating reliable and efficient software solutions. My toolbox includes Java ☕, JavaScript/TypeScript 🌐, Selenium 🤖, Playwright 🎭, TestNG 🧪, and Cucumber.</p>
 
 ###
 
